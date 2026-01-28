@@ -144,4 +144,4 @@ b.bind("<Button-1>", click)
 
 f.pack()
 
-root.mainloop()#it keeps the window open and responsive until the user closes it manually
+root.mainloop()
